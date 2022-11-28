@@ -1,4 +1,4 @@
-package com.example.mysoothe.navigation
+package com.example.mysoothe.bottomnavigation.navigation
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Favorite

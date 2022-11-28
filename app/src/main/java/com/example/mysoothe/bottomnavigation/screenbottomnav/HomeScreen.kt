@@ -1,4 +1,4 @@
-package com.example.mysoothe.screen
+package com.example.mysoothe.bottomnavigation.screenbottomnav
 
 import androidx.compose.runtime.Composable
 import com.example.mysoothe.DefaultPreview

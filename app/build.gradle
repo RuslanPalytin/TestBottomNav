@@ -65,4 +65,7 @@ dependencies {
 
     implementation "androidx.compose.foundation:foundation:1.2.0-alpha05"
     implementation "androidx.compose.foundation:foundation-layout:1.2.0-alpha05"
+
+    implementation "com.google.accompanist:accompanist-pager:0.20.3"
+    implementation "com.google.accompanist:accompanist-pager-indicators:0.20.3"
 }
